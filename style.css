@@ -1,0 +1,10 @@
+body {
+    
+    background: #b2cd6e;
+    font-family: 'impact', Times, serif, Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    color: rgb(93, 18, 173);
+    font: 32px impact, Helvetica, serif;
+}
