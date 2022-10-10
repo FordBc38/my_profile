@@ -1,7 +1,15 @@
+* {
+    text-align: center;
+    list-style: none;
+ 
+}
+
 body {
-    
-    justify-content: center;
+    border: 2px solid powderblue;
+    margin: 50px;
     font-family: 'impact', Times, serif, Arial, Helvetica, sans-serif;
+    
+    
 }
 
 h1, h2 {
